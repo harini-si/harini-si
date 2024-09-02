@@ -5,6 +5,8 @@
 - 🌱 I’m currently deep diving into Math
 - 👯 I am on the lookout for research opportunities and collaborations
 
+![Visitor Count](https://profile-counter.glitch.me/harini-si/count.svg)
+
 ### Connect with me:
 
 [<img align="left" alt="harini-si.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][Website]
@@ -15,7 +17,6 @@
 
 ---
 
-!<img align="left" alt="harini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harini-si&show_icons=true&hide_border=true" />
 
 [website]: https://harini-si.github.io
 [twitter]: https://twitter.com/hariniskumar10

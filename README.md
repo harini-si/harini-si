@@ -15,7 +15,7 @@
 
 ---
 
-<img align="left" alt="harini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harini-si&show_icons=true&hide_border=true" />
+!<img align="left" alt="harini's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harini-si&show_icons=true&hide_border=true" />
 
 [website]: https://harini-si.github.io
 [twitter]: https://twitter.com/hariniskumar10

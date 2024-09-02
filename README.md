@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I am Harini, currently a SWE at Adobe. 
+### I am Harini, currently a SWE at Adobe. 
 
 - 🔍 I am interested Multimodal ML and NLP
 - 🌱 I’m currently deep diving into Math
@@ -21,4 +21,4 @@
 [twitter]: https://twitter.com/hariniskumar10
 [linkedin]: https://www.linkedin.com/in//harini-s-i-a140b61bb/
 [GoogleScholar]: [https://scholar.google.com/citations?user=3Unw6gkAAAAJ&hl=en](https://scholar.google.com/citations?user=Q35ix-YAAAAJ&hl=en)
-![](https://komarev.com/ghpvc/?username=your-github-username)
+

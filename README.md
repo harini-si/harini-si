@@ -1,8 +1,8 @@
 ## Hi there 👋
 ### I am Harini, currently a Research Associate at Adobe. 
 
-- 🔍 I am interested in Multimodal ML and NLP
-- 🌱 I’m currently deep diving into Math
+- 🔍 I am interested in LLMs/VLMs broadly with a focus on reasoning and human behavior
+- 🌱 I’m currently deep diving into Stats!
 
 
 ![Visitor Count](https://profile-counter.glitch.me/harini-si/count.svg)

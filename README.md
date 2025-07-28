@@ -1,9 +1,9 @@
 ## Hi there 👋
-### I am Harini, currently a SWE at Adobe. 
+### I am Harini, currently a Research Associate at Adobe. 
 
 - 🔍 I am interested in Multimodal ML and NLP
 - 🌱 I’m currently deep diving into Math
-- 👯 I am on the lookout for research opportunities and collaborations
+
 
 ![Visitor Count](https://profile-counter.glitch.me/harini-si/count.svg)
 

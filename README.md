@@ -4,8 +4,7 @@
 - 🔍 I am interested in LLMs/VLMs broadly with a focus on reasoning and human behavior
 - 🌱 I’m currently deep diving into Stats!
 
-
-![Visitor Count](https://profile-counter.glitch.me/harini-si/count.svg)
+![](https://komarev.com/ghpvc/?username=harini-si)
 
 ### Connect with me:
 
